@@ -1,0 +1,57 @@
+{
+"vehiclePosition": [ {
+"index": 284526,
+"trailerNumber": null,
+ "tractorNumber": "8999",
+ "deviceSerialNumber": "E509L0300000001",
+  "latitude": 40.682230,
+   "longitude": -73.847900,
+   "timestamp": 1482424602874,
+    "driverId": "rapple",
+    "location": "8 Pendergast Street Ozone Park, NY 11417",
+     "odometer": 898233,
+     "vin": "WDBJF82J0YX030236"
+},
+{
+"index": 284571,
+"trailerNumber": "555",
+"tractorNumber": "777",
+"deviceSerialNumber": "E509L0300000002",
+"latitude": 41.025500,
+"longitude": -80.762080,
+"timestamp": 1482426229391,
+ "driverId": " rapple2",
+  "location": "8 Prairie St Canfield, OH 44406",
+  "odometer": 78733,
+  "vin": "JTDKN3DU1E0372950"
+},
+{
+"index": 284573,
+"trailerNumber": "556",
+"tractorNumber": "778",
+"deviceSerialNumber": "E509L0300000003",
+"latitude": 34.974380,
+"longitude": -85.293480,
+"timestamp": 1482426229391,
+ "driverId": " rapple3",
+  "location": "979 Brown Ave Carrollton, GA 30117",
+  "odometer": 8982344,
+  "vin": "1G1PC5SB0D7198392"
+},
+{
+"index": 284575,
+"trailerNumber": "557",
+"tractorNumber": "781",
+"deviceSerialNumber": "E509L0300000004",
+"latitude": 32.978170,
+"longitude": -81.760090,
+"timestamp": 1482426229391,
+ "driverId": " rapple4",
+  "location": "863 James St Smyrna, GA 30080",
+  "odometer": 994344,
+  "vin": "1YVGF22C2X5867715"
+}
+],
+"response": { "code": 20000, "type": "Success", "message": "OK"}
+
+}
